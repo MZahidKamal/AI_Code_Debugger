@@ -9,9 +9,9 @@
 
 **Upload a screenshot of your buggy code — AI finds the bug and fixes it.**
 
-[🚀 Live Demo](https://your-app.streamlit.app) &nbsp;·&nbsp; [📁 GitHub](https://github.com/yourusername/ai-code-debugger) &nbsp;·&nbsp; [💼 Portfolio](https://yourportfolio.com)
+[🚀 Live Demo](https://code-debug-ger-ai.streamlit.app/) &nbsp;·&nbsp; [📁 GitHub](https://github.com/MZahidKamal/AI_Code_Debugger) &nbsp;·&nbsp; [💼 Portfolio](https://md-zahid-kamal.vercel.app/)
 
-![App Preview](https://placehold.co/900x480/0f172a/94a3b8?text=AI+Code+Debugger+Preview)
+![App Preview](https://res.cloudinary.com/zahids-cloudinary/image/upload/v1776336510/ai_code_debugger_app_live_link_ss_xtpfxt.jpg)
 
 </div>
 
